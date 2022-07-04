@@ -1,0 +1,98 @@
+h1{
+    color: #d2692E;
+    text-align: center;
+    font-size: 60px;
+  }
+  li{
+    font-size: 25.5px;
+    list-style-type: none;
+    padding: 5px;
+    color: #d3d3d3;
+  }
+  a{
+    text-decoration: none;
+  }
+  body{
+    background-color: #10041c;
+  }
+  footer{
+    bottom:0%;
+    text-align:center;
+    color: #d3d3d3;
+    background-color: #000;
+    font-size: 19px;
+  }
+  
+  #Texto_Intro{
+      color: #d3d3d3;
+      width: 800px;
+      margin: 10px auto;
+      font-size: 30px;
+      text-align: center;
+  }
+  #lista{
+      margin-left: 20px;
+      color:#d2692E ;
+  }
+  #Espace_Invadres_Texto{
+    color: #d3d3d3;
+      width: 900px;
+      margin: 10px auto;
+      font-size: 25px;
+      text-align: center;
+  }
+  
+  #Pacman_img{
+    margin-left: 550px;
+    padding: 5px;
+  }
+  
+  #Texto_DK{
+    color: #d3d3d3;
+    width: 300px;
+    text-align: center ;
+    margin: auto;
+    margin-right:350px;
+    font-size: 21px;
+    padding: 5px;
+  }
+  #DK_Imagem{
+    margin: -500px 800px 900px 400px ;
+  }
+  
+  #Mario_Texto{
+    position: absolute;
+    color: #d3d3d3;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    margin-left: 400px;
+    margin-bottom: 10px;
+    margin-top: -750px;
+    font-size: 27px;
+  }
+  #Mario_img{
+    position: absolute;
+    margin: -700px 100px 0px 830px ;
+  }
+  #mario_titulo{
+      position: absolute;
+      margin-left: 600px;
+      margin-top: -800px;
+      color:#d2692E;
+      text-align: center;
+      font-size: 35px;
+  }
+  
+  .titulos_jogos{
+    color:#d2692E;
+      text-align: center;
+      font-size: 35px;
+  }
+  .Pacman_Texto{
+    color: #d3d3d3;
+      text-align: center;
+      margin: auto ;
+      width: 900px;
+      font-size: 27px;
+  }
